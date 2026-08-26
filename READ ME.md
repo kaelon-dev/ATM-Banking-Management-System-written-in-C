@@ -8,18 +8,31 @@ This project was created to practice fundamental C programming concepts by apply
 
 ✨ Features
 🔐 PIN Authentication — Login using a 4-digit PIN.
+
 🚫 PIN Attempt Limit — Maximum of 3 incorrect attempts.
+
 👥 Multiple Users — Supports 10 predefined user accounts.
+
 💰 Balance Inquiry — Check the current account balance.
+
 💸 Money Withdrawal — Withdraw money with multiple validation checks.
+
 💵 Money Deposit — Deposit money into the account.
+
 🧾 Transaction Receipt — Displays transaction details after successful transactions.
+
 ⚠️ Minimum Balance Protection — Requires at least ₹500 to remain after a withdrawal.
+
 📊 Withdrawal Limit — Maximum withdrawal of ₹20,000 per transaction.
+
 🔄 Logout — Ends the current user session while keeping the ATM running.
+
 🚪 Exit ATM — Saves the current balance and closes the program.
+
 🔁 Multiple Sessions — Another user can log in after the previous user logs out.
+
 🛠️ Technologies Used
+
 Technology	Usage
 C	Main programming language
 GCC	Compiler
