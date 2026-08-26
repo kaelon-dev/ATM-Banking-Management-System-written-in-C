@@ -412,17 +412,17 @@ This project is part of our journey from learning basic C syntax and control flo
 
 This project was developed collaboratively by:
 
-Contributor              	Contribution
+Contributor              	-- Contribution
 
-Gloris Heartin	       Project Contributor
+Gloris Heartin	       -- Project Contributor
 
-Joanna Elizabeth Jaison	Project Contributor
+Joanna Elizabeth Jaison	-- Project Contributor
 
-Nihel	                     Project Contributor
+Nihel	                     -- Project Contributor
 
-Sarah B Joseph	       Project Contributor
+Sarah B Joseph	       -- Project Contributor
 
-Jyothesh Reddy	       Project Contributor
+Jyothesh Reddy	       -- Project Contributor
 🙌 Special Thanks
 
 A big thank you to everyone who contributed ideas, coding, testing, debugging, documentation, and improvements to this project.
